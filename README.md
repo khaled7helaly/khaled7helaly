@@ -11,11 +11,11 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledhelaly7/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaled7helaly/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helalykhaled3@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](helalykhaled3@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=khaled7helaly&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=KhaledMahmoud&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -35,7 +35,6 @@ const khaled = {
     "Full Stack Development",
     "UI/UX Design",
   ],
-  funFact:    "I debug with console.log and I'm proud of it 😄"
 };
 ```
 
@@ -43,10 +42,9 @@ const khaled = {
 
 ## 🛠️ Tech Stack
 
+ 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=A78BFA&center=true&vCenter=true&width=400&lines=Frontend+%7C+Backend+%7C+Database+%7C+Tools" alt="Stack Typing"/>
-
+ 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,51 +53,41 @@ const khaled = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+ 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
+ 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+ 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+ 
 </div>
-
+ 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khaled7helaly&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled7helaly&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KhaledMahmoud&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMahmoud&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled7helaly&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledMahmoud&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
 
 <br/><br/>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=khaled7helaly&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaled7helaly&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-<br/>
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaled7helaly/khaled7helaly/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaled7helaly/khaled7helaly/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khaled7helaly/khaled7helaly/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -108,11 +96,10 @@ const khaled = {
 
 ## 🌱 Currently Working On
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&lines=🔨+Building+Full-Stack+Apps+with+Node.js+%2B+React;🐳+Exploring+Docker+%26+DevOps;🎨+Improving+UI%2FUX+Skills+with+Figma;📖+Mastering+Advanced+JavaScript" alt="Currently Working On"/>
-
-</div>
+- 🔨 Building full-stack web apps with **Node.js + React**
+- 🐳 Learning **Docker** & containerization
+- 🎨 Improving my **UI/UX** design skills with Figma
+- 📖 Mastering **Advanced JavaScript** concepts
 
 ---
 
@@ -120,7 +107,7 @@ const khaled = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
@@ -128,6 +115,6 @@ const khaled = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=a78bfa&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>

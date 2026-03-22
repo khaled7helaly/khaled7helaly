@@ -1,14 +1,17 @@
 <div align="center">
 
+<!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khaled%20Mahmoud%20Helaly&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Khaled+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Node.js+%2B+React+Enthusiast+%E2%9A%A1;DevOps+Explorer+%F0%9F%90%B3;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Khaled+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Node.js+%2B+React+Enthusiast+%E2%9A%A1;DevOps+Explorer+%F0%9F%90%B3;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" /> 
 
 <br/>
 
+<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledhelaly7/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaled7helaly/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helalykhaled3@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](helalykhaled3@gmail.com)
 
 <br/>
 
@@ -20,65 +23,34 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-/*
- *
- *  ██╗  ██╗██╗  ██╗ █████╗ ██╗     ███████╗██████╗
- *  ██║ ██╔╝██║  ██║██╔══██╗██║     ██╔════╝██╔══██╗
- *  █████╔╝ ███████║███████║██║     █████╗  ██║  ██║
- *  ██╔═██╗ ██╔══██║██╔══██║██║     ██╔══╝  ██║  ██║
- *  ██║  ██╗██║  ██║██║  ██║███████╗███████╗██████╔╝
- *  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝
- *
- * @author  Khaled Mahmoud Helaly
- * @version 2025.final_year
- * @license MIT — open to opportunities 🚀
- */
-
-class KhaledMahmoud implements Developer {
-
-  // ─── Identity ────────────────────────────────────────
-  readonly name     = "Khaled Mahmoud Helaly";
-  readonly location = "Alexandria, Egypt 🇪🇬";
-  readonly edu      = "Suez University · CS Final Year 🎓";
-  readonly contact  = "helalykhaled3@gmail.com";
-
-  // ─── What I Do ───────────────────────────────────────
-  roles = [
-    "Full Stack Developer  ⚡",
-    "DevOps Explorer       🐳",
-    "UI/UX Tinkerer        🎨",
-  ] as const;
-
-  // ─── Tech Stack ──────────────────────────────────────
-  stack = {
-    frontend : ["React", "TypeScript", "Tailwind CSS", "Bootstrap"],
-    backend  : ["Node.js", "Express.js", "REST APIs"],
-    database : ["MongoDB"],
-    devops   : ["Docker", "Git", "Linux"],
-    design   : ["Figma"],
-  };
-
-  // ─── Right Now ───────────────────────────────────────
-  currentlyBuilding = "Full-stack web apps people actually use 💡";
-  learning          = ["Advanced JS Patterns", "Docker & DevOps", "UI/UX"];
-  openTo            = ["Collaborations", "Internships", "Cool Projects"];
-
-  // ─── Life Motto ──────────────────────────────────────
-  motto() {
-    return `"First, solve the problem. Then, write the code." 🧠`;
-  }
-}
-
-export default new KhaledMahmoud();
+```javascript
+██╗  ██╗██╗  ██╗ █████╗ ██╗     ███████╗██████╗
+██║ ██╔╝██║  ██║██╔══██╗██║     ██╔════╝██╔══██╗
+█████╔╝ ███████║███████║██║     █████╗  ██║  ██║
+██╔═██╗ ██╔══██║██╔══██║██║     ██╔══╝  ██║  ██║
+██║  ██╗██║  ██║██║  ██║███████╗███████╗██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝
+const khaled = {
+  name:       "Khaled Mahmoud",
+  location:   "Alexandria, Egypt 🇪🇬",
+  university: "Suez University — CS Final Year 🎓",
+  role:       ["Full Stack Developer", "DevOps Explorer"],
+  passion:    "Turning ideas into real products 💡",
+  currentlyLearning: [
+    "Advanced JavaScript",
+    "Full Stack Development",
+    "UI/UX Design",
+  ],
+};
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
+ 
 <div align="center">
-
+ 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -87,22 +59,21 @@ export default new KhaledMahmoud();
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+ 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
+ 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+ 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+ 
 </div>
-
+ 
 ---
 
 ## 📊 GitHub Stats
@@ -118,6 +89,7 @@ export default new KhaledMahmoud();
 
 <br/><br/>
 
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake.svg"/>
@@ -131,7 +103,6 @@ export default new KhaledMahmoud();
 ## 🌱 Currently Working On
 
 - 🔨 Building full-stack web apps with **Node.js + React**
-- 🐳 Learning **Docker** & containerization
 - 🎨 Improving my **UI/UX** design skills with Figma
 - 📖 Mastering **Advanced JavaScript** concepts
 
@@ -151,4 +122,4 @@ export default new KhaledMahmoud();
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-</div>
+</div

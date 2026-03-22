@@ -112,19 +112,3 @@ const khaled = {
 </div>
  
 ---
- 
-## 💬 Quote I Live By
- 
-<div align="center">
- 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
- 
-</div>
- 
----
- 
-<div align="center">
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=a78bfa&animation=twinkling" width="100%"/>
- 
-</div>

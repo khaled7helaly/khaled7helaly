@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- Animated Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:020c1b,30:0a192f,60:112240,100:020c1b&height=260&section=header&text=Khaled%20Mahmoud%20Helaly&fontSize=46&fontColor=64ffda&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20CS%20Final%20Year%20%F0%9F%8E%93&descAlignY=62&descSize=17&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0b1a,30:1e1b4b,60:312e81,100:0d0b1a&height=260&section=header&text=Khaled%20Mahmoud%20Helaly&fontSize=46&fontColor=c4b5fd&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20CS%20Final%20Year%20%F0%9F%8E%93&descAlignY=62&descSize=17&animation=twinkling&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&height=50&lines=Hey+there!+I'm+Khaled+%F0%9F%91%8B;MEAN+Stack+Developer+%E2%9A%A1;Node.js+%26+React+Enthusiast+%F0%9F%9A%80;UI%2FUX-Oriented+Developer+%F0%9F%8E%A8;Building+Scalable+Web+Apps+%F0%9F%94%A5;Open+to+Collaborations+%26+Internships+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Hey+there!+I'm+Khaled+%F0%9F%91%8B;MEAN+Stack+Developer+%E2%9A%A1;Node.js+%26+React+Enthusiast+%F0%9F%9A%80;UI%2FUX-Oriented+Developer+%F0%9F%8E%A8;Building+Scalable+Web+Apps+%F0%9F%94%A5;Open+to+Collaborations+%26+Internships+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledhelaly7/)
-[![GitHub](https://img.shields.io/badge/GitHub-%230a192f.svg?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/khaled7helaly/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaled7helaly/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helalykhaled3@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KhaledMahmoud&color=64ffda&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=KhaledMahmoud&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -90,12 +90,12 @@ const khaled = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KhaledMahmoud&show_icons=true&theme=ocean_dark&border_radius=12&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMahmoud&layout=compact&theme=ocean_dark&border_radius=12&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KhaledMahmoud&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMahmoud&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledMahmoud&theme=dark&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledMahmoud&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
 
 <br/><br/>
 
@@ -131,6 +131,6 @@ const khaled = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:020c1b,30:0a192f,60:112240,100:020c1b&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0b1a,30:1e1b4b,60:312e81,100:0d0b1a&height=120&section=footer&animation=twinkling&stroke=7c3aed&strokeWidth=1" width="100%"/>
 
 </div>

@@ -1,4 +1,4 @@
-ر<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=080809&height=4&section=header" width="100%"/>
 

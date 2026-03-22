@@ -3,8 +3,8 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hi%20there%2C%20I'm%20Khaled!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Final%20Year%20%40%20Suez%20University&descAlignY=58&descSize=16&descColor=a8b2d8&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Node.js+%2B+React+Builder+%E2%9A%A1;DevOps+Explorer+%F0%9F%90%B3;Open+to+Opportunities+%F0%9F%9F%A2" alt="Typing SVG"/>
+<!-- Typing Animation — self introduction -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=64FFDA&center=true&vCenter=true&width=680&lines=I'm+a+Full+Stack+Developer+from+Alexandria+🇪🇬;I+build+web+apps+with+Node.js+%2B+React+⚡;I'm+a+CS+Final+Year+student+%40+Suez+University+🎓;I+love+turning+ideas+into+real+products+💡;I'm+exploring+Docker+%26+DevOps+🐳;I'm+open+to+new+opportunities+🟢" alt="Typing SVG"/>
 
 <br/>
 
@@ -25,6 +25,14 @@
 ---
 
 ## 👨‍💻 About Me
+
+Hey! I'm **Khaled**, a Full Stack Developer and CS final year student from Alexandria, Egypt 🇪🇬
+
+I build web applications using **Node.js**, **React**, and **MongoDB** — from idea to deployment.
+I care about writing clean code, creating smooth user experiences, and always learning something new.
+
+Right now I'm diving deeper into **Docker**, **DevOps**, and **UI/UX design** with Figma.
+I'm open to work and excited to join a team where I can grow and build real things 🚀
 
 ```javascript
 const khaled = {

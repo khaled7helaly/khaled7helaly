@@ -34,9 +34,7 @@ const khaled = {
     "Advanced JavaScript",
     "Full Stack Development",
     "UI/UX Design",
-    "Docker & CI/CD Pipelines"
   ],
-  funFact:    "I debug with console.log and I'm proud of it 😄"
 };
 ```
 

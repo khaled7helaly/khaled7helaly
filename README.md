@@ -85,21 +85,16 @@ const khaled = {
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KhaledMahmoud&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMahmoud&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KhaledMahmoud&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMahmoud&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledMahmoud&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" width="52%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledMahmoud&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true&area_color=1e0a3c&custom_title=Khaled's%20Contribution%20Graph" width="94%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledMahmoud&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
 
 <br/><br/>
 
@@ -109,16 +104,6 @@ const khaled = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake.svg"/>
 </picture>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KhaledMahmoud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="94%"/>
 
 </div>
 
@@ -147,4 +132,4 @@ const khaled = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-</div>
+</div

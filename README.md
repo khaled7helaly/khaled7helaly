@@ -21,22 +21,57 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```javascript
-const khaled = {
-  name:       "Khaled Mahmoud",
-  location:   "Alexandria, Egypt 🇪🇬",
-  university: "Suez University — CS Final Year 🎓",
-  role:       ["Full Stack Developer", "DevOps Explorer"],
-  passion:    "Turning ideas into real products 💡",
-  currentlyLearning: [
-    "Advanced JavaScript",
-    "Full Stack Development",
-    "UI/UX Design",
-  ],
-};
+ 
+## 👾 About Me
+ 
+```typescript
+/**
+ * @author  Khaled Mahmoud Helaly
+ * @version 2025.final_year
+ * @license MIT — open to opportunities 🚀
+ */
+ 
+class KhaledMahmoud implements Developer {
+ 
+  // ─── Identity ────────────────────────────────────────
+  readonly name     = "Khaled Mahmoud Helaly";
+  readonly location = "Alexandria, Egypt 🇪🇬";
+  readonly edu      = "Suez University · CS Final Year 🎓";
+  readonly contact  = "helalykhaled3@gmail.com";
+ 
+  // ─── What I Do ───────────────────────────────────────
+  roles = [
+    "Full Stack Developer  ⚡",
+    "DevOps Explorer       🐳",
+    "UI/UX Tinkerer        🎨",
+  ] as const;
+ 
+  // ─── Tech Stack ──────────────────────────────────────
+  stack = {
+    frontend : ["React", "TypeScript", "Tailwind CSS", "Bootstrap"],
+    backend  : ["Node.js", "Express.js", "REST APIs"],
+    database : ["MongoDB"],
+    devops   : ["Docker", "Git", "Linux"],
+    design   : ["Figma"],
+  };
+ 
+  // ─── Right Now ───────────────────────────────────────
+  currentlyBuilding = "Full-stack web apps people actually use 💡";
+  learning          = ["Advanced JS Patterns", "Docker & DevOps", "UI/UX"];
+  openTo            = ["Collaborations", "Internships", "Cool Projects"];
+ 
+  // ─── Life Motto ──────────────────────────────────────
+  motto() {
+    return `"First, solve the problem. Then, write the code." 🧠`;
+  }
+}
+ 
+export default new KhaledMahmoud();
 ```
+ 
+<br clear="right"/>
+ 
+---
 
 ---
 

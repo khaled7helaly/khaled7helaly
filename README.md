@@ -1,84 +1,105 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080810,40:0d0b1a,70:12100e,100:080810&height=280&section=header&text=Khaled%20Mahmoud%20Helaly&fontSize=48&fontColor=d4af37&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20CS%20Final%20Year&descAlignY=62&descSize=16&descColor=8a8070&animation=twinkling&stroke=d4af37&strokeWidth=1" width="100%"/>
+<!-- Animated Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,30:0a192f,60:112240,100:020c1b&height=260&section=header&text=Khaled%20Mahmoud%20Helaly&fontSize=46&fontColor=64ffda&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20CS%20Final%20Year%20%F0%9F%8E%93&descAlignY=62&descSize=17&animation=twinkling&stroke=64ffda&strokeWidth=1" width="100%"/>
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&height=50&lines=Hey+there!+I'm+Khaled+%F0%9F%91%8B;MEAN+Stack+Developer+%E2%9A%A1;Node.js+%26+React+Enthusiast+%F0%9F%9A%80;UI%2FUX-Oriented+Developer+%F0%9F%8E%A8;Building+Scalable+Web+Apps+%F0%9F%94%A5;Open+to+Collaborations+%26+Internships+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledhelaly7/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23080810.svg?style=flat-square&logo=github&logoColor=d4af37)](https://github.com/khaled7helaly/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23080810.svg?style=flat-square&logo=gmail&logoColor=d4af37)](mailto:helalykhaled3@gmail.com)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=KhaledMahmoud&color=d4af37&style=flat-square&label=PROFILE+VIEWS)
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledhelaly7/)
+[![GitHub](https://img.shields.io/badge/GitHub-%230a192f.svg?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/khaled7helaly/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helalykhaled3@gmail.com)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=14&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&height=40&lines=MEAN+Stack+Developer+%E2%80%94+Alexandria%2C+Egypt;Node.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+MongoDB;Building+scalable+web+applications;Open+to+Collaborations+%26+Internships" alt="Typing SVG" />
+![Profile Views](https://komarev.com/ghpvc/?username=KhaledMahmoud&color=64ffda&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
 ```typescript
+/*
+ *
+ *  ██╗  ██╗██╗  ██╗ █████╗ ██╗     ███████╗██████╗
+ *  ██║ ██╔╝██║  ██║██╔══██╗██║     ██╔════╝██╔══██╗
+ *  █████╔╝ ███████║███████║██║     █████╗  ██║  ██║
+ *  ██╔═██╗ ██╔══██║██╔══██║██║     ██╔══╝  ██║  ██║
+ *  ██║  ██╗██║  ██║██║  ██║███████╗███████╗██████╔╝
+ *  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝
+ *
+ * @author  Khaled Mahmoud Helaly
+ * @version 2025.final_year
+ * @license MIT — open to opportunities 🚀
+ */
+
 const khaled = {
   name:       "Khaled Mahmoud Helaly",
   location:   "Alexandria, Egypt 🇪🇬",
   university: "Suez University — CS Final Year 🎓",
   role:       ["MEAN Stack Developer", "UI/UX-Oriented", "DevOps Explorer"],
-  passion:    "Building scalable web applications",
-  currentlyLearning: ["Advanced JavaScript", "Docker & DevOps", "UI/UX Design"],
-  openTo:     ["Collaborations", "Internships", "Cool Projects"],
+  passion:    "Building scalable web applications 💡",
+  currentlyLearning: [
+    "Advanced JavaScript",
+    "Docker & DevOps",
+    "UI/UX Design",
+  ],
+  openTo: ["Collaborations", "Internships", "Cool Projects"],
 };
 ```
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Frontend**
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Backend & Database**
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KhaledMahmoud&show_icons=true&theme=midnight-purple&border_radius=4&hide_border=true&bg_color=080810&title_color=d4af37&icon_color=d4af37&text_color=8a8070" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMahmoud&layout=compact&theme=midnight-purple&border_radius=4&hide_border=true&bg_color=080810&title_color=d4af37&text_color=8a8070" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KhaledMahmoud&show_icons=true&theme=ocean_dark&border_radius=12&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMahmoud&layout=compact&theme=ocean_dark&border_radius=12&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledMahmoud&theme=dark&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledMahmoud&theme=dark&hide_border=true&background=080810&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideLabels=8a8070&dates=8a8070" width="50%"/>
-
-<br/><br/>
-
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake.svg"/>
@@ -89,18 +110,20 @@ const khaled = {
 
 ---
 
-## Currently Working On
+## 🌱 Currently Working On
 
-- Building full-stack web apps with **Node.js + React**
-- Learning **Docker** & containerization
-- Improving **UI/UX** design skills with Figma
-- Mastering **Advanced JavaScript** concepts
+- 🔨 Building full-stack web apps with **Node.js + React**
+- 🐳 Learning **Docker** & containerization
+- 🎨 Improving my **UI/UX** design skills with Figma
+- 📖 Mastering **Advanced JavaScript** concepts
 
 ---
 
+## 💬 Quote I Live By
+
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
@@ -108,6 +131,6 @@ const khaled = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080810,40:0d0b1a,70:12100e,100:080810&height=100&section=footer&animation=twinkling&stroke=d4af37&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,30:0a192f,60:112240,100:020c1b&height=120&section=footer&animation=twinkling&stroke=64ffda&strokeWidth=1" width="100%"/>
 
 </div>

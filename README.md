@@ -1,88 +1,112 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0f0c29&height=220&section=header&text=Khaled%20Mahmoud%20Helaly&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Final%20Year%20%40%20Suez%20University&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<!-- Cyberpunk Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0a0a2e,60:0d0d3b,80:1a0a2e,100:0d0221&height=250&section=header&text=KHALED.EXE&fontSize=72&fontColor=00fff5&fontAlignY=40&desc=%3E_%20Full+Stack+Developer+%2F%2F+System+Online&descAlignY=62&descSize=18&descColor=ff2d78&animation=twinkling&stroke=00fff5&strokeWidth=2" width="100%"/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Khaled+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Node.js+%2B+React+Enthusiast+%E2%9A%A1;DevOps+Explorer+%F0%9F%90%B3;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG"/>
-
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledhelaly7/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaled7helaly/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helalykhaled3@gmail.com)
+<!-- Glitch Typing Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&pause=800&color=00FFF5&background=00000000&center=true&vCenter=true&width=650&lines=%5BSYSTEM+BOOT%5D+Initializing+Khaled.exe+...;%3E+Full+Stack+Developer+%2F%2F+ONLINE+%E2%9C%93;%3E+Node.js+%2B+React+%2F%2F+LOADED+%E2%9C%93;%3E+DevOps+Protocols+%2F%2F+ACTIVE+%E2%9C%93;%3E+Available+for+hire+%2F%2F+TRUE+%E2%9C%93" alt="Typing SVG"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=khaled7helaly&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- Neon Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/_%20LinkedIn-%2300fff5.svg?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://www.linkedin.com/in/khaledhelaly7/)
+[![GitHub](https://img.shields.io/badge/_%20GitHub-%23ff2d78.svg?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/khaled7helaly/)
+[![Gmail](https://img.shields.io/badge/_%20Gmail-%23ffe600.svg?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:helalykhaled3@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=khaled7helaly&color=00fff5&style=for-the-badge&label=VISITORS)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+```
+╔══════════════════════════════════════════════════════════════╗
+║              > ACCESSING DEVELOPER DATABASE...               ║
+║              > IDENTITY VERIFIED — LOADING PROFILE          ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ```javascript
-const khaled = {
-  name:       "Khaled Mahmoud Helaly",
-  location:   "Alexandria, Egypt 🇪🇬",
-  university: "Suez University — CS Final Year 🎓",
-  role:       ["Full Stack Developer", "DevOps Explorer"],
-  passion:    "Turning ideas into real products 💡",
-  available:  true, // open to opportunities
-  currentlyLearning: [
-    "Advanced JavaScript",
-    "Full Stack Development (Node.js + React)",
-    "Docker & Containerization",
-    "UI/UX Design with Figma",
-  ],
+/**
+ * ██╗  ██╗██╗  ██╗ █████╗ ██╗     ███████╗██████╗
+ * ██║ ██╔╝██║  ██║██╔══██╗██║     ██╔════╝██╔══██╗
+ * █████╔╝ ███████║███████║██║     █████╗  ██║  ██║
+ * ██╔═██╗ ██╔══██║██╔══██║██║     ██╔══╝  ██║  ██║
+ * ██║  ██╗██║  ██║██║  ██║███████╗███████╗██████╔╝
+ * ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝
+ */
+
+const DEVELOPER = {
+  alias:      "Khaled Mahmoud Helaly",
+  location:   "Alexandria, Egypt 🌍",
+  class:      "Full Stack Developer",
+  level:      "CS Final Year @ Suez University",
+  status:     "ONLINE 🟢",
+  available:  true,  // open to new missions
+
+  skills: {
+    frontend:  ["React", "TypeScript", "TailwindCSS"],
+    backend:   ["Node.js", "Express.js"],
+    database:  ["MongoDB"],
+    devops:    ["Docker", "Git", "GitHub Actions"],
+    design:    ["Figma"],
+  },
+
+  mission: "// Turning ideas into real products 💡",
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## `> TECH_STACK.load()`
 
 <div align="center">
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### ◈ FRONTEND PROTOCOLS
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### ◈ BACKEND PROTOCOLS
 
-### 🔧 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%2300FF88.svg?style=for-the-badge&logo=nodedotjs&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-%23ffffff.svg?style=for-the-badge&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ◈ SYSTEM TOOLS
+
+![Git](https://img.shields.io/badge/Git-%23FF4500.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23ffffff.svg?style=for-the-badge&logo=github&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%2300fff5.svg?style=for-the-badge&logo=docker&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23ff2d78.svg?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## `> GITHUB_STATS.fetch()`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khaled7helaly&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled7helaly&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khaled7helaly&show_icons=true&theme=chartreuse-dark&border_radius=8&hide_border=false&border_color=00fff5&bg_color=0d0d0d&title_color=00fff5&icon_color=ff2d78&text_color=ffffff&ring_color=ff2d78" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled7helaly&layout=compact&theme=chartreuse-dark&border_radius=8&hide_border=false&border_color=00fff5&bg_color=0d0d0d&title_color=00fff5&text_color=ffffff" height="175"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled7helaly&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled7helaly&theme=dark&hide_border=false&border=00fff5&background=0d0d0d&ring=ff2d78&fire=ffe600&currStreakLabel=00fff5&sideLabels=00fff5&dates=888888" width="50%"/>
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=khaled7helaly&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 <br/><br/>
 
@@ -97,20 +121,31 @@ const khaled = {
 
 ---
 
-## 🌱 Currently Working On
+## `> CURRENT_MISSIONS.log()`
 
-- 🔨 Building full-stack web apps with **Node.js + React**
-- 🐳 Learning **Docker** & containerization
-- 🎨 Improving **UI/UX** design skills with Figma
-- 📖 Mastering **Advanced JavaScript** concepts
+```bash
+$ git log --oneline --missions
+
+🔨  [ACTIVE]   Building full-stack apps — Node.js + React
+🐳  [ACTIVE]   Learning Docker & containerization
+🎨  [ACTIVE]   Mastering UI/UX design with Figma
+📖  [ACTIVE]   Deep diving into Advanced JavaScript
+```
 
 ---
 
-## 💬 Quote I Live By
+## `> SYSTEM_MESSAGE.print()`
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   "First, solve the problem. Then, write the code."        │
+│                                          — John Johnson    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -118,6 +153,7 @@ const khaled = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:2d1b69,60:1a0533,100:0a0a0f&height=120&section=footer" width="100%"/>
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0a2e,60:0a0a2e,100:0d0d0d&height=130&section=footer&text=%3E_+SESSION+TERMINATED&fontSize=28&fontColor=00fff5&fontAlignY=55&animation=twinkling" width="100%"/>
 
 </div>

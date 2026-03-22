@@ -69,52 +69,62 @@ const khaled = {
 </div>
  
 ---
-
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KhaledMahmoud&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMahmoud&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
-
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=khaled7helaly&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled7helaly&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
+ 
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledMahmoud&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
-
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled7helaly&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
+ 
 <br/><br/>
-
+ 
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=khaled7helaly&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+ 
+<br/><br/>
+ 
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaled7helaly&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%"/>
+ 
+<br/>
+ 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaled7helaly/khaled7helaly/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaled7helaly/khaled7helaly/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khaled7helaly/khaled7helaly/output/github-snake.svg"/>
 </picture>
-
+ 
 </div>
-
+ 
 ---
-
+ 
 ## 🌱 Currently Working On
-
-- 🔨 Building full-stack web apps with **Node.js + React**
-- 🐳 Learning **Docker** & containerization
-- 🎨 Improving my **UI/UX** design skills with Figma
-- 📖 Mastering **Advanced JavaScript** concepts
-
----
-
-## 💬 Quote I Live By
-
+ 
 <div align="center">
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&lines=🔨+Building+Full-Stack+Apps+with+Node.js+%2B+React;🐳+Exploring+Docker+%26+DevOps;🎨+Improving+UI%2FUX+Skills+with+Figma;📖+Mastering+Advanced+JavaScript" alt="Currently Working On"/>
+ 
 </div>
-
+ 
 ---
-
+ 
+## 💬 Quote I Live By
+ 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
+ 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+ 
+</div>
+ 
+---
+ 
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=a78bfa&animation=twinkling" width="100%"/>
+ 
 </div>

@@ -1,22 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:0d1f3c,100:0a0a0f&height=280&section=header&text=Khaled%20Mahmoud&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20•%20CS%20Final%20Year%20•%20Alexandria%20🇪🇬&descAlignY=62&descSize=16&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=650&height=50&lines=🚀+Building+products+people+love;⚡+Node.js+%2B+React+Full+Stack;🐳+Docker+%26+DevOps+Explorer;🎨+UI%2FUX+with+Figma;💡+Turning+ideas+into+reality" alt="Typing SVG" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:0d1f3c,100:0a0a0f&height=300&section=header&text=Khaled%20Mahmoud&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20•%20CS%20Final%20Year%20•%20Alexandria%20🇪🇬&descAlignY=62&descSize=16&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=680&height=55&lines=🚀+Building+products+people+love;⚡+Node.js+%2B+React+Full+Stack+Dev;🐳+Docker+%26+DevOps+Explorer;🎨+UI%2FUX+Designer+with+Figma;💡+Turning+ideas+into+reality;🔥+Always+learning%2C+always+shipping" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/_%40khaledhelaly7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/khaledhelaly7/)
-[![GitHub](https://img.shields.io/badge/_%40khaled7helaly-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22)](https://github.com/khaled7helaly/)
-[![Gmail](https://img.shields.io/badge/_helalykhaled3-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:helalykhaled3@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/_%40khaledhelaly7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledhelaly7/)
+[![GitHub](https://img.shields.io/badge/_%40khaled7helaly-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaled7helaly/)
+[![Gmail](https://img.shields.io/badge/_helalykhaled3-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helalykhaled3@gmail.com)
 
 <br/>
 
@@ -27,7 +21,7 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=KhaledMahmoud&show_icons=true&theme=tokyonight&border_radius=16&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=KhaledMahmoud&show_icons=true&theme=tokyonight&border_radius=16&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
 
 ## 👾 About Me
 
@@ -92,20 +86,32 @@ const khaled: Developer = {
 
 ---
 
+## ⏱️ Wakatime Coding Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&layout=compact&border_radius=16" width="60%"/>
+
+</div>
+
+> 💡 **لتفعيل Wakatime:**
+> 1. سجّل حساب مجاني على [wakatime.com](https://wakatime.com)
+> 2. ثبّت الـ [VS Code extension](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+> 3. أضف الـ [waka-readme](https://github.com/athul/waka-readme) GitHub Action لـ profile repo بتاعك
+> 4. استبدل `YOUR_WAKATIME_USERNAME` بـ username بتاعك في الرابط فوق
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledMahmoud&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMahmoud&layout=compact&theme=tokyonight&border_radius=16&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" width="40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledMahmoud&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMahmoud&layout=compact&theme=tokyonight&border_radius=16&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" width="38%"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledMahmoud&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true&area_color=1e0a3c" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledMahmoud&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true&area_color=1e0a3c&custom_title=Khaled's%20Contribution%20Graph" width="95%"/>
 
 </div>
 
@@ -126,22 +132,22 @@ const khaled: Developer = {
 <table align="center">
 <tr>
 <td align="center" width="160">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+<img src="https://skillicons.dev/icons?i=react" width="52"/><br/>
 <b>React Advanced</b><br/>
 <sub>Patterns & Performance</sub>
 </td>
 <td align="center" width="160">
-<img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
+<img src="https://skillicons.dev/icons?i=docker" width="52"/><br/>
 <b>Docker</b><br/>
 <sub>Containerization</sub>
 </td>
 <td align="center" width="160">
-<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>
+<img src="https://skillicons.dev/icons?i=figma" width="52"/><br/>
 <b>UI/UX Design</b><br/>
 <sub>Figma Mastery</sub>
 </td>
 <td align="center" width="160">
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br/>
+<img src="https://skillicons.dev/icons?i=js" width="52"/><br/>
 <b>Advanced JS</b><br/>
 <sub>Deep Dive</sub>
 </td>

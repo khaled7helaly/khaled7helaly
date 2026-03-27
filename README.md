@@ -87,7 +87,7 @@ const khaled = {
 
  <br>
 ### 📈 GitHub Analytics
-<br/>
+  <br>
 <p align="center">
   <a href="https://github.com/khaled7helaly">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khaled7helaly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -96,18 +96,9 @@ const khaled = {
 </p>
 
 
-<br/>
+  <br>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake.svg"/>
-</picture>
 
-</div>
-
----
 
 ## 🌱 Currently Working On
 

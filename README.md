@@ -84,17 +84,14 @@ const khaled = {
       <img src="https://skillicons.dev/icons?i=git" width="45"/>
 
 </p>
-
 ### 📈 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/osama-2003">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khaled7helaly 2003&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khaled7helaly2003&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/khaled7helaly">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khaled7helaly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khaled7helaly&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
-
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledMahmoud&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
 
 <br/><br/>

@@ -84,6 +84,8 @@ const khaled = {
       <img src="https://skillicons.dev/icons?i=git" width="45"/>
 
 </p>
+
+ <br>
 ### 📈 GitHub Analytics
 
 <p align="center">
@@ -97,11 +99,7 @@ const khaled = {
 <br/><br/>
 
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake.svg"/>
-</picture>
+
 
 </div>
 

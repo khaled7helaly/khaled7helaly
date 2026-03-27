@@ -3,7 +3,6 @@
 <!-- Animated Hero Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khaled%20Mahmoud%20Helaly&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Hey+there!+I'm+Khaled+%F0%9F%91%8B;MEAN+Stack+Developer+%E2%9A%A1;Node.js+%26+React+Enthusiast+%F0%9F%9A%80;UI%2FUX-Oriented+Developer+%F0%9F%8E%A8;Building+Scalable+Web+Apps+%F0%9F%94%A5;Open+to+Collaborations+%26+Internships+%F0%9F%8C%9F" alt="Typing SVG" />
 
@@ -16,7 +15,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KhaledMahmoud&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=khaled7helaly&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -56,38 +55,31 @@ const khaled = {
 
 ---
 
-### 🛠️ Languages & Tools  
+## 🛠️ Languages & Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="45"/>
   <img src="https://skillicons.dev/icons?i=css" width="45"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
-    <img src="https://skillicons.dev/icons?i=typescript" width="45"/>
-
+  <img src="https://skillicons.dev/icons?i=typescript" width="45"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
-
   <img src="https://skillicons.dev/icons?i=react" width="45"/>
   <img src="https://skillicons.dev/icons?i=redux" width="45"/>
   <img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
-
-  
-   <br>
-
-  <!-- New Tools -->
+  <br/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
   <img src="https://skillicons.dev/icons?i=express" width="45"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
-
-  
   <img src="https://skillicons.dev/icons?i=vite" width="45"/>
-    <img src="https://skillicons.dev/icons?i=npm" width="45"/>
-      <img src="https://skillicons.dev/icons?i=git" width="45"/>
-
+  <img src="https://skillicons.dev/icons?i=npm" width="45"/>
+  <img src="https://skillicons.dev/icons?i=git" width="45"/>
 </p>
 
- <br>
-### 📈 GitHub Analytics
-  <br>
+---
+
+## 📈 GitHub Analytics
+
 <p align="center">
   <a href="https://github.com/khaled7helaly">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khaled7helaly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -95,10 +87,7 @@ const khaled = {
   </a>
 </p>
 
-
-  <br>
-
-
+---
 
 ## 🌱 Currently Working On
 
@@ -118,8 +107,9 @@ const khaled = {
 </div>
 
 ---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-</div
+</div>

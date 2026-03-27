@@ -87,19 +87,23 @@ const khaled = {
 
  <br>
 ### 📈 GitHub Analytics
-
+<br/>
 <p align="center">
   <a href="https://github.com/khaled7helaly">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khaled7helaly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khaled7helaly&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledMahmoud&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
 
-<br/><br/>
+
+<br/>
 
 <!-- Snake Animation -->
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KhaledMahmoud/KhaledMahmoud/output/github-snake.svg"/>
+</picture>
 
 </div>
 

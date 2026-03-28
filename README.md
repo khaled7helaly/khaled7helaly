@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khaled%20Mahmoud%20Helaly&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Hey+there!+I'm+Khaled+%F0%9F%91%8B;MEAN+Stack+Developer+%E2%9A%A1;Node.js+%26+React+Enthusiast+%F0%9F%9A%80;UI%2FUX-Oriented+Developer+%F0%9F%8E%A8;Building+Scalable+Web+Apps+%F0%9F%94%A5;Open+to+Collaborations+%26+Internships+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Hey+there!+I'm+Khaled+%F0%9F%91%8B;MERN+Stack+Developer+%E2%9A%A1;Node.js+%26+React+Enthusiast+%F0%9F%9A%80;UI%2FUX-Oriented+Developer+%F0%9F%8E%A8;Building+Scalable+Web+Apps+%F0%9F%94%A5;Open+to+Collaborations+%26+Internships+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 

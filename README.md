@@ -42,7 +42,7 @@ const khaled = {
   name:       "Khaled Mahmoud Helaly",
   location:   "Alexandria, Egypt 🇪🇬",
   university: "Suez University — CS Final Year 🎓",
-  role:       ["MEAN Stack Developer", "UI/UX-Oriented", "DevOps Explorer"],
+  role:       ["MERN Stack Developer", "UI/UX-Oriented"],
   passion:    "Building scalable web applications 💡",
   currentlyLearning: [
     "Advanced JavaScript",

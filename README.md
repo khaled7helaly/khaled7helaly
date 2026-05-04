@@ -1,5 +1,4 @@
 <div align="center">
-<img width="1440" height="1220" alt="image" src="https://github.com/user-attachments/assets/5781ced9-d670-4bd5-a125-da6f795cccf2" />
 
 <!-- Animated Hero Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khaled%20Mahmoud%20Helaly&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
@@ -79,16 +78,16 @@ const khaled = {
 
 ---
 
-## 📈 GitHub Analytics
-
+## 📊 GitHub Analytics
+ 
 <p align="center">
-  <a href="https://github.com/khaled7helaly">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khaled7helaly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khaled7helaly&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khaled7helaly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khaled7helaly&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled7helaly&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
 
 ## 🌱 Currently Working On
 

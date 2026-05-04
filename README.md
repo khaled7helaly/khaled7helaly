@@ -98,6 +98,15 @@ const khaled = {
 
 ---
 
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaled7helaly/khaled7helaly/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaled7helaly/khaled7helaly/output/github-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khaled7helaly/khaled7helaly/output/github-snake.svg" width="100%"/>
+  </picture>
+</p>
+
 ## 💬 Quote I Live By
 
 <div align="center">

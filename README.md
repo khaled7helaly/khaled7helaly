@@ -1,4 +1,5 @@
 <div align="center">
+<img width="1440" height="1220" alt="image" src="https://github.com/user-attachments/assets/5781ced9-d670-4bd5-a125-da6f795cccf2" />
 
 <!-- Animated Hero Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khaled%20Mahmoud%20Helaly&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>

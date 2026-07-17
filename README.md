@@ -21,7 +21,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```typescript
 /*
@@ -55,7 +55,7 @@ const khaled = {
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="45"/>
@@ -89,7 +89,7 @@ const khaled = {
 </p>
 
 
-## 🌱 Currently Working On
+##  Currently Working On
 
 - 🔨 Building full-stack web apps with **Node.js + React**
 - 🐳 Learning **Docker** & containerization

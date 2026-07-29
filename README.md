@@ -46,7 +46,6 @@ const khaled = {
   passion:    "Building scalable web applications 💡",
   currentlyLearning: [
     "Advanced JavaScript",
-    "Docker & DevOps",
     "UI/UX Design",
   ],
   openTo: ["Collaborations", "Internships", "Cool Projects"],

@@ -11,7 +11,7 @@
 <!-- Social Badges -->
 <div align="center">
 
-### 🌐 Connect With Me
+
 
 <a href="https://www.linkedin.com/in/khaledhelaly7">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>

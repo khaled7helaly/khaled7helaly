@@ -7,6 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Hey+there!+I'm+Khaled+%F0%9F%91%8B;MERN+Stack+Developer+%E2%9A%A1;Node.js+%26+React+Enthusiast+%F0%9F%9A%80;UI%2FUX-Oriented+Developer+%F0%9F%8E%A8;Building+Scalable+Web+Apps+%F0%9F%94%A5;Open+to+Collaborations+%26+Internships+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
+<br/>
+<br/>
 
 <!-- Social Badges -->
 <div align="center">

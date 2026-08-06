@@ -11,9 +11,35 @@
 <!-- Social Badges -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledhelaly7)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/khaledhelaly77)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helalykhaled3@gmail.com)
+### 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/khaledhelaly7">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+&nbsp;
+<a href="https://github.com/khaled7helaly">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+&nbsp;
+<a href="https://www.behance.net/khaledhelaly77">
+  <img src="https://cdn.simpleicons.org/behance/1769FF" height="45"/>
+</a>
+&nbsp;
+<a href="mailto:helalykhaled3@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/khaled__helaly">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="45"/>
+</a>
+&nbsp;
+<a href="https://www.facebook.com/khaled.helaly.895344">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45"/>
+</a>
+&nbsp;
+<a href="https://wa.me/201234567890">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45"/>
+</a>
 
 </div>
 

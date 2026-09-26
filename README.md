@@ -53,7 +53,7 @@ I build modern web applications with a strong focus on **React, frontend develop
 
 <td width="32%" align="center" valign="middle">
 
-<img src="https://scontent.fcai21-3.fna.fbcdn.net/v/t39.30808-6/473801891_1114209440208519_4898037529686010991_n.jpg?stp=dst-jpg_tt6&cstp=mx940x940&ctp=s940x940&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=fhe_x01gxk8Q7kNvwFz0Gix&_nc_oc=AdqXctm1eGXfahUVcOZ4DSBBVjhpRGGPH_y1Sh2RpA8Nn0FSA58YZP2xe7bxkjhqvD8&_nc_zt=23&_nc_ht=scontent.fcai21-3.fna&_nc_gid=jQ5M93ozjgrU3V_xfh7MFQ&_nc_ss=7b2a8&oh=00_AQJ_xKe5-KdTXjr4qWoqAO9o1kwmB0Rcnab6saGkxxTM7g&oe=6AB7991D" width="210" alt="Khaled Mahmoud Helaly"/>
+<img src="https://drive.google.com/uc?export=view&id=1fb3u7xZy8vO1QXTaiXWM9tueYvuWVNvS" width="330" alt="Khaled Mahmoud Helaly"/>
 
 </td>
 

@@ -148,6 +148,19 @@ I build modern web applications with a strong focus on **React, frontend develop
 * Interactive layouts, smooth animations and 3D-inspired visual elements.
 
 ---
+### Arabic Todo List — مهامي
+
+<sup><b>Frontend Project</b> · Personal Project · Completed</sup>
+
+<kbd><img src="https://skillicons.dev/icons?i=html" height="17" alt="HTML"/></kbd> <kbd><img src="https://skillicons.dev/icons?i=javascript" height="17" alt="JavaScript"/></kbd> <kbd><img src="https://skillicons.dev/icons?i=tailwind" height="17" alt="Tailwind CSS"/></kbd>
+
+* Arabic-first task management app for organizing daily tasks.
+* Add, complete, delete, and filter tasks by status and date.
+* Dark/Light mode with persistent theme preferences.
+* Arabic/English language switching with RTL/LTR support.
+* Tasks and preferences are stored locally using LocalStorage.
+
+---
 
 ### Hospital Booking System
 
@@ -166,6 +179,7 @@ I build modern web applications with a strong focus on **React, frontend develop
 
 * Worked from requirements and user flows to a functional academy platform.
 * Focused on interface structure, usability and overall user experience.
+
 
 ---
 

@@ -102,7 +102,7 @@ I build modern web applications with a strong focus on **React, frontend develop
 
 ---
 
-### Home Healthcare Marketplace
+### Tabibi GO — Home Healthcare Marketplace
 
 <sup><b>Full-Stack Project</b> · Team Lead · In Progress · Target: December 2026</sup>
 
